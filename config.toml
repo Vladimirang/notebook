@@ -1,7 +1,7 @@
 theme = "edidor"
-title = "Notes von Yang"
-baseurl = "https://vladimirang.github.io/"
-AuthorName = "Yang Yu"
+title = "notebook von Yang"
+baseurl = "https://vladimirang.github.io/notebook/"
+AuthorName = "Jon Doe"
 # place your logo file to ./static/images to set logo
 
 # i18n is not completed yet, help is appreciated.
@@ -9,7 +9,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 # you may not need this
 hasCJKLanguage = true
-
+publishDir = "docs"
 
 # ----- feel free change these settings, those are not tied to this theme --
 paginate = 5

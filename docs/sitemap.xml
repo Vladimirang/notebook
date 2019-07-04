@@ -3,17 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://vladimirang.github.io/notebook/posts/my-first-post/</loc>
+    <lastmod>2019-07-04T16:24:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/posts/</loc>
+    <lastmod>2019-07-04T16:24:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://vladimirang.github.io/notebook/</loc>
+    <lastmod>2019-07-04T16:24:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://vladimirang.github.io/notebook/categories/</loc>
+    <lastmod>2019-05-06T23:26:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/tags/</loc>
+    <lastmod>2019-05-06T23:26:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/categories/test/</loc>
+    <lastmod>2019-05-06T23:26:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/posts/the-standard-lorem-ipsum-passage-used-since-the-1500s/</loc>
+    <lastmod>2019-05-06T23:26:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/tags/test/</loc>
+    <lastmod>2019-05-06T23:26:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/tags/blogging/</loc>
+    <lastmod>2019-04-28T17:48:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/tags/development/</loc>
+    <lastmod>2019-04-28T17:48:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/tags/go/</loc>
+    <lastmod>2019-04-28T17:48:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/posts/hello-world/</loc>
+    <lastmod>2019-04-28T17:48:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/tags/fast/</loc>
+    <lastmod>2019-04-28T17:48:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/categories/hello-world/</loc>
+    <lastmod>2019-04-28T17:48:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vladimirang.github.io/notebook/categories/tmp/</loc>
+    <lastmod>2019-04-28T17:48:36+08:00</lastmod>
     <priority>0</priority>
   </url>
   
