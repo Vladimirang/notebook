@@ -18,7 +18,6 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
-
+git push git@github_v:Vladimirang/notebook.git
 # Come Back up to the Project Root
 # cd ..
