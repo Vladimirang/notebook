@@ -6,10 +6,19 @@
     <description>Recent content on notebook von Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jul 2019 16:24:30 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 17:49:53 +0200</lastBuildDate>
     
 	<atom:link href="https://vladimirang.github.io/notebook/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>处理数据</title>
+      <link>https://vladimirang.github.io/notebook/posts/%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE/</link>
+      <pubDate>Thu, 04 Jul 2019 17:49:53 +0200</pubDate>
+      
+      <guid>https://vladimirang.github.io/notebook/posts/%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE/</guid>
+      <description>The training data used for tensorflow preparing tensorflow 用的数据是 numpy.array 一般将收集的数据转换成 numpy.array格式进行处理</description>
+    </item>
     
     <item>
       <title>My First Post</title>

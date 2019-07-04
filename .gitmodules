@@ -1,0 +1,6 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/edidor"]
+	path = themes/edidor
+	url = https://github.com/jacobsun/edidor

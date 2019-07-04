@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML on notebook von Yang</title>
+    <link>https://vladimirang.github.io/notebook/categories/ml/</link>
+    <description>Recent content in ML on notebook von Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Jul 2019 17:49:53 +0200</lastBuildDate>
+    
+	<atom:link href="https://vladimirang.github.io/notebook/categories/ml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>处理数据</title>
+      <link>https://vladimirang.github.io/notebook/posts/%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE/</link>
+      <pubDate>Thu, 04 Jul 2019 17:49:53 +0200</pubDate>
+      
+      <guid>https://vladimirang.github.io/notebook/posts/%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE/</guid>
+      <description>The training data used for tensorflow preparing tensorflow 用的数据是 numpy.array 一般将收集的数据转换成 numpy.array格式进行处理</description>
+    </item>
+    
+  </channel>
+</rss>
