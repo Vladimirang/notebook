@@ -1,0 +1,4 @@
+baseURL = "https://vladimirang.github.io/"
+languageCode = "en-us"
+title = "Notes von Yang"
+theme = "ananke"
